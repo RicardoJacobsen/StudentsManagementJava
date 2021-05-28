@@ -1,4 +1,4 @@
-This is a program developed to deal with the students information from a university database. It prompt a menu with 11 option to manage the student information and ask the user to input the menu optin desired.
+This is a program developed to deal with the students information from a university database. It prompt a menu with 11 option to manage the student information and ask the user to input the menu option desired.
 After the menu option is entered, the required calculations will be displayed to the user.
 
 To create this project I made use of: 
